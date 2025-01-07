@@ -1,17 +1,20 @@
-<h1>Hi, I'm Paul Holmes! 
+<h1>Hi, I'm Paul Holmes, a <a href="https://www.linkedin.com/in/paul-qholmes/">Cyber Security Professional!</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | Medium" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Medium_colored_svg-512.png" />][Medium]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>]
- https://www.linkedin.com/in/paul-qholmes/
-
-
-
-
-- 🌱 I’m currently learning how to code Python. 
-
+[Medium]:https://medium.com/@qonceptdev
+[linkedin]:https://www.linkedin.com/in/paul-qholmes/
