@@ -3,7 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Splunk (SIEM) </b>
-  - [Setting up a Splunk Instance in AWS](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Setting up a Splunk Instance in AWS](https://github.com/pholmes7/Installing-Splunk-Enterprise)
+ 
   
 
 
