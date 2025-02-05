@@ -5,6 +5,9 @@
 - <b>Splunk (SIEM) </b>
   - [Setting up a Splunk Instance in AWS](https://github.com/pholmes7/Installing-Splunk-Enterprise)
  
+- <b> Azure </b>
+ - [Observing VPN traffic within an Azure Virtual Machine](https://github.com/pholmes7/Setting-Up-A-VPN)
+ 
   
 
 
