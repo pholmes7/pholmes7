@@ -7,6 +7,7 @@
  
 - <b> Azure </b>
    - [Observing VPN traffic within an Azure Virtual Machine](https://github.com/pholmes7/Setting-Up-A-VPN)
+   - [Setting Up Active Directory using Azure Vms](https://github.com/pholmes7/Preping_AD_Infrastructure_in_Azure)
  
   
 
